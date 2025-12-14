@@ -1,0 +1,8 @@
+export default function Home() {
+  return (
+    <div style={{ padding: '40px' }}>
+      <h2>Financial Assistance Platform</h2>
+      <p>Apply for financial support securely.</p>
+    </div>
+  )
+}
